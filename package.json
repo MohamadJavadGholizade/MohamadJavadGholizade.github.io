@@ -3,8 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://MohamadJavadGholizade/MohamadJavadGholizade.github.io/",
-
+  "homepage": "https://mohamadjavadgholizade.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
